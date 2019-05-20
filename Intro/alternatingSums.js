@@ -1,6 +1,3 @@
-
-
-
 function alternatingSums(a) {
     let evens = 0;
     let odds = 0;
